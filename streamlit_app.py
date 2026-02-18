@@ -53,7 +53,8 @@ def events_df():
 init_state()
 
 st.title("📅 Smart Scheduler (Update 1)")
-st.caption("Simple mobile-calendar style agenda")
+st.caption("Simple mobile-calendar style agenda ✅ Updated via Jenkins")
+
 
 tab1, tab2 = st.tabs(["📅 Scheduler", "🔮 Prediction"])
 
